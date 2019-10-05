@@ -5,10 +5,15 @@ This is the repository of lab works from the course of Machine Learning at NUST 
 There are 6 topics:
 
 -kNN + Parzen's window
+
 -decision trees
+
 -linear classification and perceptron
+
 -pca
+
 -timeseries forecasting
+
 -model ensembling
 
 
